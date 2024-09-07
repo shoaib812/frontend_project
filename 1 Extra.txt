@@ -1,0 +1,22 @@
+ &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp;
+		 &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp;
+		 &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp;
+		 &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp;
+		 <br><br>
+
+<label>Debit Card  &nbsp &nbsp</label> 
+	      
+          <select>
+		  <option	color="black"> Choose Other Card </option>
+		  <option>	Bank Of Baroda</option>
+		  <option> State Bank Of India </option>
+		  <option> HDFC Bank </option>
+		  <option> Bank Of Kenra </option>
+		  <option> Bank Of Maharastra </option>
+		  <option> Axis Bank </option>
+		  <option> Punjab National Bank </option>
+		  <option> Paytm Payment Bank </option>
+		  <option> Airtel Payment Bank </option>
+		  </optgroup> </select>
+		  
+		  <br><br>
